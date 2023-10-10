@@ -12,7 +12,7 @@ I'm a passionate Developer as well as a Graphic Designer with a love for explori
 - **Design**: UI/UX, Graphic Design, Vector, Illustration
 - **Graphics**: Corel, Photoshop, Illustrator, 3ds Max
 - **Media**: Audio-Video editing
-- **Others**: Hardware, Networking, Maintenance, Troubleshooting, Smartphone Service, Firewall, VPN
+- **Others**: Hardware, Networking, Maintenance, Troubleshooting, Smartphone Service, Firewall, VPN, Router configuration
 
 ## 🌱 Current Learning Goals
 
