@@ -10,7 +10,8 @@ I'm a passionate Developer as well as a Graphic Designer with a love for explori
 - **Framework**: Angular, Spark, Django
 - **Tools**: Visual Studio, Android Studio, Flutter
 - **Design**: UI/UX, Graphic Design, Vector, Illustration
-- **Graphics**: Corel, Photoshop, Illustrator
+- **Graphics**: Corel, Photoshop, Illustrator, 3ds Max
+- **Others**: Hardware, Networking, Maintenance, Troubleshooting, Smartphone Service, Firewall, VPN
 
 ## 🌱 Current Learning Goals
 
@@ -25,4 +26,4 @@ I'm looking forward to Offensive Security.
 
 Feel free to explore my repositories and let's connect! I'm always open to collaborations and new opportunities.
 
-# sky is not the limit
+##✈️ sky is not the limit
