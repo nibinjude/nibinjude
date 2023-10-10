@@ -7,9 +7,10 @@ I'm a passionate Developer as well as a Graphic Designer with a love for explori
 ## 🚀 Skills & Expertise
 
 - **Languages**: Python, CSS, Java, JavaScript, HTML, Dart, Kotlin, PHP
-- **Framework**: Angular
+- **Framework**: Angular, Spark
 - **Tools**: Visual Studio, Android Studio, Flutter
 - **Design**: UI/UX, Graphic Design, Vector, Illustration
+- **Graphics**: Corel, Photoshop, Illustrator
 
 ## 🌱 Current Learning Goals
 
@@ -23,3 +24,5 @@ I'm currently focusing on Offensive Security. I'm excited to dive deeper into Cy
 I'm looking forward to Offensive Security.
 
 Feel free to explore my repositories and let's connect! I'm always open to collaborations and new opportunities.
+
+#sky is not the limit
