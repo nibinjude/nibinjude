@@ -23,7 +23,7 @@ I'm currently focusing on Offensive Security. I'm excited to dive deeper into Cy
 - Twitter: [@nibinjude](https://twitter.com/nibinjude)
 - LinkedIn: [Nibin Jude](https://linkedin.com/in/nibinjude)
 
-I'm looking forward to Offensive Security.
+I'm looking forward to Cyber Security.
 
 Feel free to explore my repositories and let's connect! I'm always open to collaborations and new opportunities.
 
