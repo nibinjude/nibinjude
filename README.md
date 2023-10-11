@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Nibin Jude. You can call me NJ
+# 👋 Hello, I'm Nibin Jude
 
 ## About Me
 
