@@ -12,7 +12,7 @@ I'm a passionate Developer, Graphic Designer and Computer Technician with a love
 - **Design**: UI/UX, Graphic Design, Vector, Illustration
 - **Graphics**: Corel, Photoshop, Illustrator, 3ds Max
 - **Media**: Audio-Video editing
-- **Others**: Hardware, Networking, Maintenance, Troubleshooting, Smartphone Service, Firewall, VPN, Driver, OS, Router configuration, Technical Support, Virtual Assistance
+- **Others**: Hardware, Networking, Maintenance, Troubleshooting, Smartphone Service, Firewall, VPN, Driver, OS, Router configuration, CCTV DVR/NVR, Technical Support, Virtual Assistance
 
 ## 🌱 Current Learning Goals
 
